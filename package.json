@@ -1,0 +1,12 @@
+{
+  "name": "vehicle-tracker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Jim Kelly",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
